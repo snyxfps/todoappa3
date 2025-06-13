@@ -77,12 +77,6 @@ npm install
 npm run dev
 ```
 
-3. **Acessar no navegador:**
-
-```
-http://localhost:3000
-```
-
 ---
 
 ## 📝 Observação
