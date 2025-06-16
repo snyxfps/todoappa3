@@ -76,12 +76,4 @@ npm install
 ```
 npm run dev
 ```
-
----
-
-## 📝 Observação
-
-O sistema **não usa banco de dados**, todo o armazenamento é feito localmente no navegador.
-Ideal para fins acadêmicos e demonstração de conceitos básicos de front-end, roteamento e controle de estado.
-
 ---
